@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--General -->
+    <!--Web -->
+    <Browser>Chrome</Browser>
+    <Slow_mo>1000</Slow_mo>
+    <URL>https://app.dev.crowncoinscasino.com</URL>
+</Environment>
